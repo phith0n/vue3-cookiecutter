@@ -1,0 +1,6 @@
+{
+    "slug": "example",
+    "name": "Example Website",
+    "frontend_port": 3000,
+    "backend_url": "http://127.0.0.1:8080"
+}
